@@ -1,7 +1,5 @@
 # Online Payment Fraud Detection
 
-![Fraud Detection](https://i.imgur.com/A8PA1wB.jpeg)
-
 This project is a machine learning model to detect fraudulent online payment transactions. By analyzing transactional data, the model can predict with a high degree of accuracy whether a transaction is legitimate or fraudulent. This helps in preventing financial loss and securing online payment systems.
 
 ***
