@@ -85,11 +85,6 @@ To get a local copy up and running, follow these simple steps.
 
 You can run the project by opening the `Online_Payment_Fraud_Detection.ipynb` Jupyter Notebook file. The notebook contains all the steps from data loading and preprocessing to model training and evaluation.
 
-To run the notebook:
-
-jupyter notebook
-***
-
 ## 📈 Model Training and Results
 
 The model was trained using a Random Forest Classifier. Its performance is evaluated using metrics like Accuracy, Precision, Recall, and F1-Score. A confusion matrix is also used to visualize the performance of the model's classifications.
